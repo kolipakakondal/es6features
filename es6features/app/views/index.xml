@@ -1,0 +1,21 @@
+<Alloy>
+    <Window class="container" left="0.00%" top="6.67%">
+        <Label id="label3" onClick="constVariablesTest">let and const</Label>
+        <Label id="Label_1" onClick="arrowFunctions"/>
+        <Label id="Label_2" onClick="classesTest"/>
+        <Label id="label10" onClick="enhancedObjectLiterals"/>
+        <Label id="TemplateStrings" onClick="templateStrings"/>
+        <Label id="Label_3" onClick="defaultFunctionArgs"/>
+        <Label id="Label_4" onClick="restnSpreadOperators"/>
+        <Label id="Label_5" onClick="destructureArray"/>
+        <Label id="Label_6" onClick="implementPromise"/>
+        <Label id="Label_7" onClick="multilineStrings"/>
+        <Label id="label1" onClick="arrayHelperForEach">Arrow Helper function - forEach</Label>
+        <Label id="label2" onClick="arrayHelperMap">Arrow Helper function - Map</Label>
+        <Label id="label4" onClick="arrayHelperFilter">Array Helper function - Filter</Label>
+        <Label id="label5" onClick="arrayHelperFind">Array Helper function - Find</Label>
+        <Label id="label6" onClick="arrayHelperEvery">Array Helper function - Every</Label>
+        <Label id="Label7" onClick="arrayHelperSome"/>
+        <Label id="Label_8" onClick="proxyFunction2"/>
+    </Window>
+</Alloy>

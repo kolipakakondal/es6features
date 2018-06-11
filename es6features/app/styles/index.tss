@@ -1,0 +1,87 @@
+".container": {
+	"backgroundColor": "white"
+},
+"Label": {
+	"width": Ti.UI.SIZE,
+	"height": Ti.UI.SIZE,
+	"color": "#000"
+},
+"#label2": {
+	"left": "12.00%",
+	"top": "15%"
+},
+"#label3": {
+	"left": "12.00%",
+	"top": "5%"
+},
+"#label1": {
+	"left": "12%",
+	"top": "10%"
+},
+"#label4": {
+	"left": "12.00%",
+	"top": "20%"
+},
+"#label5": {
+	"left": "12.00%",
+	"top": "25%"
+},
+"#label6": {
+	"left": "12.00%",
+	"top": "30%"
+},
+"#Label7": {
+	"text": "Array Helper function - some",
+	"left": "12%",
+	"top": "35%"
+},
+"#Label_1": {
+	"text": "Fat Arrow functions",
+	"left": "12%",
+	"top": "40%"
+},
+"#Label_2": {
+	"text": "JS Classes",
+	"left": "12%",
+	"top": "45%"
+},
+"#label10": {
+	"text": "Enhanced Object Literals",
+	"left": "13%",
+	"top": "50%"
+},
+"#TemplateStrings": {
+	"text": "Template Strings",
+	"left": "12%",
+	"top": "55%"
+},
+"#Label_3": {
+	"text": "Default Function arguments",
+	"left": "12%",
+	"top": "60%"
+},
+"#Label_4": {
+	"text": "Rest and Spread Operators",
+	"left": "12%",
+	"top": "65%"
+},
+"#Label_5": {
+	"text": "Destructuring of Arrays",
+	"left": "12%",
+	"top": "70%"
+},
+"#Label_6": {
+	"text": "Promises",
+	"left": "12%",
+	"top": "75%"
+},
+"#Label_7": {
+	"text": "Multine-texts",
+	"left": "12%",
+	"top": "80%",
+},
+"#Label_8": {
+	"text": "Proxy",
+	"left": "12%",
+	"top": "85%",
+}
